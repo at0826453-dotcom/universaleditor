@@ -3,6 +3,6 @@
     "/content/universaleditor/:/"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/universaleditor/"
   ]
 }
